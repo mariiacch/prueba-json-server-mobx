@@ -48,8 +48,5 @@ const SidebarMenu= styled.div`
     margin-bottom: 10px;
 `
 
-const SidebarTitle= styled.h3`
-   font-size: 1rem;
-            font-weight: 500;
-`
+
 export default Sidebar
